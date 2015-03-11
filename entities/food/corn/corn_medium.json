@@ -1,0 +1,14 @@
+{
+    "type": "entity",
+    "mixins": "file(corn_medium_ghost.json)",
+    "components": {
+        "stonehearth:entity_forms": {
+            "iconic_form": "file(corn_medium_iconic.json)",
+            "ghost_form": "file(corn_medium_ghost.json)",
+            "placeable_on_ground": true
+        },
+        "render_info": {
+            "scale": 0.11
+        }
+    }
+}

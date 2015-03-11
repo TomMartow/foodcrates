@@ -1,0 +1,24 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 4,
+   "recipe_name" : "Turnip Crate - Medium",
+   "description" : "You can store 20 Turnips in here.",
+   "flavor"      : "Don't lick the hinges.",
+   "portrait"    : "/foodcrates/entities/food/turnip/turnip.png", 
+   "ingredients": [
+      {
+         "material" : "wood resource",
+         "count" : 1
+      },
+      {
+         "uri" : "stonehearth:turnip_basket",
+         "count" : 20
+      }
+  ],
+  "produces": [
+      {
+         "item":"foodcrates:turnip_medium"
+      }
+  ]
+}

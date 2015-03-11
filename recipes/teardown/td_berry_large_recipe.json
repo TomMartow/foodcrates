@@ -1,0 +1,106 @@
+{
+    "type": "recipe",
+    "work_units": 5,
+    "recipe_name": "Berry Crate - Large Tear Down",
+    "description": "Gives you 30 Berries back.",
+    "flavor": "Food, Glorious Food.",
+    "portrait": "/stonehearth/entities/food/berries/berry_basket/berry_basket.png",
+    "ingredients": [
+        {
+            "uri": "foodcrates:berry_large",
+            "count": 1
+        }
+    ],
+    "produces": [
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        }
+    ]
+}

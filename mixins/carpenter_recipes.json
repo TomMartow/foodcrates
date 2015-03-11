@@ -1,0 +1,82 @@
+{
+    "craftable_recipes": {
+        "storage": {
+            "ordinal": 6,
+            "name": "Food Storage",
+            "recipes": {
+                "berry_small": {
+                    "recipe": "file(/recipes/food/berry_small_recipe.json)"
+                },
+                "berry_medium": {
+                    "recipe": "file(/recipes/food/berry_medium_recipe.json)"
+                },
+                "berry_large": {
+                    "recipe": "file(/recipes/food/berry_large_recipe.json)"
+                },
+                "corn_small": {
+                    "recipe": "file(/recipes/food/corn_small_recipe.json)"
+                },
+                "corn_medium": {
+                    "recipe": "file(/recipes/food/corn_medium_recipe.json)"
+                },
+                "corn_large": {
+                    "recipe": "file(/recipes/food/corn_large_recipe.json)"
+                },
+                "pumpkin_small": {
+                    "recipe": "file(/recipes/food/pumpkin_small_recipe.json)"
+                },
+                "pumpkin_medium": {
+                    "recipe": "file(/recipes/food/pumpkin_medium_recipe.json)"
+                },
+                "pumpkin_large": {
+                    "recipe": "file(/recipes/food/pumpkin_large_recipe.json)"
+                },
+                "turnip_small": {
+                    "recipe": "file(/recipes/food/turnip_small_recipe.json)"
+                },
+                "turnip_medium": {
+                    "recipe": "file(/recipes/food/turnip_medium_recipe.json)"
+                },
+                "turnip_large": {
+                    "recipe": "file(/recipes/food/turnip_large_recipe.json)"
+                },
+                "td_berry_small": {
+                    "recipe": "file(/recipes/teardown/td_berry_small_recipe.json)"
+                },
+                "td_berry_medium": {
+                    "recipe": "file(/recipes/teardown/td_berry_medium_recipe.json)"
+                },
+                "td_berry_large": {
+                    "recipe": "file(/recipes/teardown/td_berry_large_recipe.json)"
+                },
+                "td_corn_small": {
+                    "recipe": "file(/recipes/teardown/td_corn_small_recipe.json)"
+                },
+                "td_corn_medium": {
+                    "recipe": "file(/recipes/teardown/td_corn_medium_recipe.json)"
+                },
+                "td_corn_large": {
+                    "recipe": "file(/recipes/teardown/td_corn_large_recipe.json)"
+                },
+                "td_pumpkin_small": {
+                    "recipe": "file(/recipes/teardown/td_pumpkin_small_recipe.json)"
+                },
+                "td_pumpkin_medium": {
+                    "recipe": "file(/recipes/teardown/td_pumpkin_medium_recipe.json)"
+                },
+                "td_pumpkin_large": {
+                    "recipe": "file(/recipes/teardown/td_pumpkin_large_recipe.json)"
+                },
+                "td_turnip_small": {
+                    "recipe": "file(/recipes/teardown/td_turnip_small_recipe.json)"
+                },
+                "td_turnip_medium": {
+                    "recipe": "file(/recipes/teardown/td_turnip_medium_recipe.json)"
+                },
+                "td_turnip_large": {
+                    "recipe": "file(/recipes/teardown/td_turnip_large_recipe.json)"
+                }
+            }
+        }
+    }
+}

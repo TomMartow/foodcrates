@@ -1,0 +1,24 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 3,
+   "recipe_name" : "Berry Crate - Small",
+   "description" : "You can store 10 Berries in here.",
+   "flavor"      : "Don't lick the hinges.",
+   "portrait"    : "/foodcrates/entities/food/berry/berry.png", 
+   "ingredients": [
+      {
+         "material" : "wood resource",
+         "count" : 1
+      },
+      {
+         "uri" : "stonehearth:food:berries:berry_basket",
+         "count" : 10
+      }
+  ],
+  "produces": [
+      {
+         "item":"foodcrates:berry_small"
+      }
+  ]
+}

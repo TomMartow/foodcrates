@@ -1,0 +1,25 @@
+{
+    "info": {
+        "name": "Food Crates",
+        "version": 1
+    },
+    "aliases": {
+        "berry_small": "file(entities/food/berry/berry_small.json)",
+        "berry_medium": "file(entities/food/berry/berry_medium.json)",
+        "berry_large": "file(entities/food/berry/berry_large.json)",
+        "pumpkin_small": "file(entities/food/pumpkin/pumpkin_small.json)",
+        "pumpkin_medium": "file(entities/food/pumpkin/pumpkin_medium.json)",
+        "pumpkin_large": "file(entities/food/pumpkin/pumpkin_large.json)",
+        "corn_small": "file(entities/food/corn/corn_small.json)",
+        "corn_medium": "file(entities/food/corn/corn_medium.json)",
+        "corn_large": "file(entities/food/corn/corn_large.json)",
+        "turnip_small": "file(entities/food/turnip/turnip_small.json)",
+        "turnip_medium": "file(entities/food/turnip/turnip_medium.json)",
+        "turnip_large": "file(entities/food/turnip/turnip_large.json)"
+    },
+    "mixintos": {
+        "/stonehearth/jobs/carpenter/recipes/recipes.json": [
+            "file(mixins/carpenter_recipes.json)"
+        ]
+    }
+}

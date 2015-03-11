@@ -1,0 +1,23 @@
+{
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(corn.qb)"
+            ]
+         }
+      },
+      "unit_info": {
+         "name": "Corn Crate - small",
+         "description": "A nice crate of Corn",
+         "icon" : "file(corn.png)"
+      },
+      "stonehearth:material" : {
+         "tags" : "wood corn food"
+      },
+      "mob" : {
+         "model_origin" : { "x": 0, "y": 0, "z": 0 },
+         "region_origin" : { "x": 0.5, "y": 0, "z": 0.5 }
+      }
+   }
+}

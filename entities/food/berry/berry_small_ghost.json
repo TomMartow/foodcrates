@@ -1,0 +1,23 @@
+{
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(berry.qb)"
+            ]
+         }
+      },
+      "unit_info": {
+         "name": "Berry Crate - small",
+         "description": "A nice crate of Berries",
+         "icon" : "file(berry.png)"
+      },
+      "stonehearth:material" : {
+         "tags" : "wood berry food"
+      },
+      "mob" : {
+         "model_origin" : { "x": 0, "y": 0, "z": 0 },
+         "region_origin" : { "x": 0.5, "y": 0, "z": 0.5 }
+      }
+   }
+}

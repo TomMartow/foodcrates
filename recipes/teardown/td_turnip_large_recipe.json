@@ -1,0 +1,107 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 5,
+   "recipe_name" : "Turnip Crate - Large Tear Down",
+   "description" : "Gives you 30 Turnips back.",
+   "flavor"      : "Food, Glorious Food.",
+   "portrait"    : "/stonehearth/entities/plants/turnip/turnip_basket/turnip_basket.png", 
+   "ingredients": [
+        {
+            "uri": "foodcrates:turnip_large",
+            "count": 1
+        }
+    ],
+    "produces": [
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        },
+        {
+            "item": "stonehearth:turnip_basket"
+        }
+  ]
+}

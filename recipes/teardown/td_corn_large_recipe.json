@@ -1,0 +1,107 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 5,
+   "recipe_name" : "Corn Crate - Large Tear Down",
+   "description" : "Gives you 30 Corn Bundles back.",
+   "flavor"      : "Food, Glorious Food.",
+   "portrait"    : "/stonehearth/entities/food/corn/corn_basket/corn_basket.png", 
+   "ingredients": [
+        {
+            "uri": "foodcrates:corn_large",
+            "count": 1
+        }
+    ],
+    "produces": [
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        },
+        {
+            "item": "stonehearth:food:corn:corn_basket"
+        }
+  ]
+}

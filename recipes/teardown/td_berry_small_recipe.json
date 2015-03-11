@@ -1,0 +1,46 @@
+{
+    "type": "recipe",
+    "work_units": 2,
+    "recipe_name": "Berry Crate - Small Tear Down",
+    "description": "Gives you 10 Berries back.",
+    "flavor": "Food, Glorious Food.",
+    "portrait": "/stonehearth/entities/food/berries/berry_basket/berry_basket.png",
+    "ingredients": [
+        {
+            "uri": "foodcrates:berry_small",
+            "count": 1
+        }
+    ],
+    "produces": [
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        },
+        {
+            "item": "stonehearth:food:berries:berry_basket"
+        }
+    ]
+}

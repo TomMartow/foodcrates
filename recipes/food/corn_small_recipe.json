@@ -1,0 +1,24 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 3,
+   "recipe_name" : "Corn Crate - Small",
+   "description" : "You can store 10 Corn Bundles in here.",
+   "flavor"      : "Don't lick the hinges.",
+   "portrait"    : "/foodcrates/entities/food/corn/corn.png", 
+   "ingredients": [
+      {
+         "material" : "wood resource",
+         "count" : 1
+      },
+      {
+         "uri" : "stonehearth:food:corn:corn_basket",
+         "count" : 10
+      }
+  ],
+  "produces": [
+      {
+         "item":"foodcrates:corn_small"
+      }
+  ]
+}

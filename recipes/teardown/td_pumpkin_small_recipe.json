@@ -1,0 +1,47 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 3,
+   "recipe_name" : "Pumpkin Crate - Small Tear Down",
+   "description" : "Gives you 10 Pumpkins back.",
+   "flavor"      : "Food, Glorious Food.",
+   "portrait"    : "/stonehearth/entities/food/pumpkin/pumpkin_basket/pumpkin_basket.png", 
+   "ingredients": [
+        {
+            "uri": "foodcrates:pumpkin_small",
+            "count": 1
+        }
+    ],
+    "produces": [
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        }
+  ]
+}

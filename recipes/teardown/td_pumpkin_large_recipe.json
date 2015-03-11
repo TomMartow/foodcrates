@@ -1,0 +1,107 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 5,
+   "recipe_name" : "Pumpkin Crate - Large Tear Down",
+   "description" : "Gives you 30 Pumpkins back.",
+   "flavor"      : "Food, Glorious Food.",
+   "portrait"    : "/stonehearth/entities/food/pumpkin/pumpkin_basket/pumpkin_basket.png", 
+   "ingredients": [
+        {
+            "uri": "foodcrates:pumpkin_large",
+            "count": 1
+        }
+    ],
+    "produces": [
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        },
+        {
+            "item": "stonehearth:food:pumpkin:pumpkin_basket"
+        }
+  ]
+}

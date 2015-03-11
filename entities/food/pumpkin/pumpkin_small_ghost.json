@@ -1,0 +1,23 @@
+{
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(pumpkin.qb)"
+            ]
+         }
+      },
+      "unit_info": {
+         "name": "Pumpkin Crate - small",
+         "description": "A nice crate of Pumpkins",
+         "icon" : "file(pumpkin.png)"
+      },
+      "stonehearth:material" : {
+         "tags" : "wood pumpkin food"
+      },
+      "mob" : {
+         "model_origin" : { "x": 0, "y": 0, "z": 0 },
+         "region_origin" : { "x": 0.5, "y": 0, "z": 0.5 }
+      }
+   }
+}

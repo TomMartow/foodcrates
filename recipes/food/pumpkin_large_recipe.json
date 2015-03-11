@@ -1,0 +1,24 @@
+{
+   "type":"recipe",
+
+   "work_units"  : 5,
+   "recipe_name" : "Pumpkin Crate - Large",
+   "description" : "You can store 30 Pumpkins in here.",
+   "flavor"      : "Don't lick the hinges.",
+   "portrait"    : "/foodcrates/entities/food/pumpkin/pumpkin.png", 
+   "ingredients": [
+      {
+         "material" : "wood resource",
+         "count" : 1
+      },
+      {
+         "uri" : "stonehearth:food:pumpkin:pumpkin_basket",
+         "count" : 30
+      }
+  ],
+  "produces": [
+      {
+         "item":"foodcrates:pumpkin_large"
+      }
+  ]
+}
